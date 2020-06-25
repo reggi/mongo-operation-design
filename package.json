@@ -1,0 +1,11 @@
+{
+  "name": "node-mongo-operation",
+  "scripts": {
+    "start": "ts-node ./example.ts"
+  },
+  "dependencies": {
+    "@types/node": "^14.0.14",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  }
+}
