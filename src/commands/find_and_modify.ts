@@ -1,6 +1,6 @@
 import { MongoDB } from "../types";
 import { Server } from '../server';
-import { Command } from './Command';
+import { Command } from './command';
 
 export class FindAndModifyCommand extends Command<
   MongoDB.CommandClassOption.FindAndModify,
